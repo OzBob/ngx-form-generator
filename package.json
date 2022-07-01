@@ -30,7 +30,7 @@
     "@types/camelcase": "^4.1.0",
     "@types/jasmine": "^2.8.9",
     "@types/node-fetch": "^2.5.5",
-    "@types/prettier": "^1.19.1",
+    "@types/prettier": "^2.6.3",
     "@types/yaml": "^1.2.0",
     "@types/yargs": "^13.0.8",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
@@ -48,7 +48,7 @@
   "dependencies": {
     "@apidevtools/swagger-parser": "^10.0.2",
     "camelcase": "^5.0.0",
-    "prettier": "^1.19.1",
+    "prettier": "^2.7.1",
     "ts-morph": "^15.1.0",
     "yaml": "^1.8.3",
     "yargs": "^15.3.1"
